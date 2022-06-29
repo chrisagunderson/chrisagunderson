@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub Profile! I am a recent PhD graduate, seeking a career in data science. In addition to the repositories here, I will list additional links here:
+Welcome to my GitHub Profile! I am a recent PhD graduate, seeking a career in data science.
 
 To view my **peer-reviewed publications**, see my [Google Scholar Profile](https://scholar.google.com/citations?user=_5jQuOMAAAAJ&hl=en).
 
